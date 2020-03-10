@@ -309,7 +309,7 @@
                                         <!-- 1F to disable fallback on blocked cards -->
                                         <entry key="&lt;1F8122&gt;" value="001F00" />
                                         <!-- This configuration identifier -->
-                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V12" />
+                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V13" />
                                         <!-- PIN bypass supported -->
                                         <entry key="&lt;1F8114&gt;" value="01" />
                                         <!-- kernel debug logging -->
@@ -926,7 +926,7 @@
                                         <!-- custom bin range - set all as payment cards for testing-->
                                         <entry key="&lt;1F812F&gt;" value="06000000999999" />
                                         <!-- This configuration identifier -->
-                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V12" />
+                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V13" />
                                         <!-- kernel logging -->
                                         <entry key="&lt;DFDD&gt;" value="00" />
                                         <!-- Message hold time -->
@@ -945,7 +945,7 @@
                                         <!-- custom bin range - set all as payment cards for testing-->
                                         <entry key="&lt;1F812F&gt;" value="06000000999999" />
                                         <!-- This configuration identifier -->
-                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V12" />
+                                        <entry key="&lt;1F8131&gt;" value="_ELAVON_V13" />
                                         <!-- Remove Sentinels and LRC -->
                                         <entry key="&lt;DFDB&gt;" value="00" />
                                         <entry key="&lt;1F8129&gt;" value="03" />
